@@ -3,7 +3,7 @@
 A pixel-perfect replication of a Figma landing page using React.js.
 
 Live Demo: https://responsive-landing-page-clone.vercel.app/
-GitHub Repo: 
+GitHub Repo: https://github.com/magarshruti/responsive-landing-page-clone.git
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
