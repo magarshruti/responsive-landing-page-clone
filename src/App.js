@@ -29,14 +29,7 @@ export default function PositivusWebsite() {
     }
   ];
 
-  const nextTestimonial = () => {
-    setCurrentTestimonial((prev) => (prev + 1) % testimonials.length);
-  };
-
-  const prevTestimonial = () => {
-    setCurrentTestimonial((prev) => (prev - 1 + testimonials.length) % testimonials.length);
-  };
-
+ 
   return (
     <div className="min-h-screen bg-white">
       <Header />
